@@ -1,0 +1,63 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #121212;
+  color: #000000;
+}
+.cv-contenido {
+  max-width: 800px;
+  margin: auto;
+}
+.header {
+  text-align: center;
+  background-color: #393939;
+  padding: 20px;
+}
+
+.contacto img {
+  width: 15px;
+  margin-right: 8px;
+}
+.mas-contenido {
+  display: flex;
+}
+.izq-column  {
+  width: 230px; 
+  background-color: #5e5e5e;
+  padding: 20px;
+}
+.der-column {
+  width: calc(100% - 300px);
+  background-color: #737373;
+  padding: 20px; 
+}
+section {
+  margin-bottom: 20px;
+}
+h3 {
+  color: #000000d0;
+}
+h4 {
+  margin-bottom: -5px;
+}
+h2 {
+  font-weight: lighter;
+}
+h1, h2 {
+  color: rgb(197, 197, 196);
+}
+hr {
+  border-color: #000000;
+  margin-top: -15px;
+}
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+
+h1:hover, h2:hover {
+  color: #000000;
+}
+h3:hover, a:hover, p:hover, li:hover {
+color: rgb(213, 213, 213); 
+}

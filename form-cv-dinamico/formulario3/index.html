@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Formulario de Currículum</title>
+    <link rel="stylesheet" href="CSS/estilos.css">
+    <link rel="stylesheet" href="CSS/lengProgra.css">
+
+</head>
+<body>
+
+<div class="cv-contenido">
+
+    <div class="header">
+        <h1>Formulario de Currículum</h1>
+    </div>
+
+    <form action="procesar_formulario.php" method="post" class="formulario">
+        <div class="mas-contenido">
+            <section>
+                <label for="nombre">Nombre y Apellidos:</label>
+                <input type="text" id="nombre" name="nombre" required>
+            </section>
+            <section>
+                <label for="fecha_nacimiento">Fecha de Nacimiento:</label>
+                <input type="date" id="fecha_nacimiento" name="fecha_nacimiento" required>
+            </section>
+            <section>
+                <label for="nacionalidad">Nacionalidad:</label>
+                <input type="text" id="nacionalidad" name="nacionalidad" required>
+            </section>
+
+            
+            <section>
+                <label for="telefono">Teléfono:</label>
+                <input type="text" id="telefono" name="telefono" required>
+            </section>
+            <section>
+                <label for="email">Email:</label>
+                <input type="text" id="email" name="email" required>
+            </section>
+            <section>
+                <label for="linkedin">Linkedin:</label>
+                <input type="text" id="linkedin" name="linkedin" required>
+            </section>
+                
+            <div id="entradasIdioma">
+                <div class="entrada-idioma">
+                    <label for="idioma1">Idioma:</label>
+                    <input type="text" name="idiomas[]" id="idioma1" required>
+                    <label for="nivel1">Nivel:</label>
+                    <select name="niveles[]" id="nivel1" required>
+                        <option value="">Seleccionar nivel</option>
+                        <option value="basico">Nativo</option>
+                        <option value="basico">Básico</option>
+                        <option value="intermedio">Intermedio</option>
+                        <option value="avanzado">Avanzado</option>
+                    </select>
+                </div>
+            </div>
+            <button type="button" id="agregarIdiomaBtn" class="btn">Agregar otro idioma</button>
+
+            <section>
+                <label for="lenguajes_programacion">Lenguajes de programación:</label>
+                <select id="lenguajes_programacion" name="lenguajes_programacion[]" multiple>
+                    <option value="javascript">JavaScript</option>
+                    <option value="python">Python</option>
+                    <option value="java">Java</option>
+                    <option value="csharp">C#</option>
+                    <option value="c++">C++</option>
+
+                </select>
+            </section>
+
+            <section>
+                <label for="habilidades">Habilidad:</label>
+                <select id="habilidades" name="habilidades[]" multiple>
+                    <option value="creatividad">Creatividad</option>
+                    <option value="dedicacion">Dedicacion</option>
+                    <option value="adaptabilidad">Adaptabilidad</option>
+                    <option value="trabajo en equipo">Trabajo en equipo</option>
+                </select>
+            </section>
+
+            <section>
+                <label for="aptitudes">Aptitud:</label>
+                <select id="aptitudes" name="aptitudes[]" multiple>
+                    <option value="organizacion">Organizacion</option>
+                    <option value="liderazgo">Liderazgo</option>
+                    <option value="autocontrol">Autocontrol</option>
+                    <option value="comunicacion">Comunicacion</option>
+                </select>
+            </section>
+            
+            <section>
+                <label for="experiencia_laboral">Experiencia laboral:</label><br>
+                <textarea id="experiencia_laboral" name="experiencia_laboral" rows="4" cols="50" required></textarea>
+            </section>
+            <section>
+                <label for="formacion_secundaria">Nombre de la educación secundaria:</label>
+                <input type="text" id="formacion_secundaria" name="formacion_secundaria" required>
+            </section>
+            <section>
+                <label for="formacion_superior">Formación superior (universidad, instituto, etc.):</label>
+                <input type="text" id="formacion_superior" name="formacion_superior" required>
+            </section>
+        </div>
+
+        <input type="submit" value="Enviar">
+    </form>
+</div>
+
+
+<script src="JS/lengProgra.js"></script>
+<script src="JS//script.js"></script>
+
+<script>
+    new MultiSelectTag('lenguajes_programacion')
+    new MultiSelectTag('habilidades')
+    new MultiSelectTag('aptitudes')  // id
+</script>
+
+</body>
+</html>
