@@ -1,0 +1,15 @@
+C:\Users\arlyz\Documents\+Proyectos\VS Community\FormAndCV\FormAndCV\FormAndCV\bin\Debug\netstandard2.0\FormAndCV.deps.json
+C:\Users\arlyz\Documents\+Proyectos\VS Community\FormAndCV\FormAndCV\FormAndCV\bin\Debug\netstandard2.0\FormAndCV.dll
+C:\Users\arlyz\Documents\+Proyectos\VS Community\FormAndCV\FormAndCV\FormAndCV\bin\Debug\netstandard2.0\ref\FormAndCV.dll
+C:\Users\arlyz\Documents\+Proyectos\VS Community\FormAndCV\FormAndCV\FormAndCV\bin\Debug\netstandard2.0\FormAndCV.pdb
+C:\Users\arlyz\Documents\+Proyectos\VS Community\FormAndCV\FormAndCV\FormAndCV\obj\Debug\netstandard2.0\FormAndCV.csproj.AssemblyReference.cache
+C:\Users\arlyz\Documents\+Proyectos\VS Community\FormAndCV\FormAndCV\FormAndCV\obj\Debug\netstandard2.0\FormAndCV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arlyz\Documents\+Proyectos\VS Community\FormAndCV\FormAndCV\FormAndCV\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\arlyz\Documents\+Proyectos\VS Community\FormAndCV\FormAndCV\FormAndCV\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\arlyz\Documents\+Proyectos\VS Community\FormAndCV\FormAndCV\FormAndCV\obj\Debug\netstandard2.0\FormAndCV.AssemblyInfoInputs.cache
+C:\Users\arlyz\Documents\+Proyectos\VS Community\FormAndCV\FormAndCV\FormAndCV\obj\Debug\netstandard2.0\FormAndCV.AssemblyInfo.cs
+C:\Users\arlyz\Documents\+Proyectos\VS Community\FormAndCV\FormAndCV\FormAndCV\obj\Debug\netstandard2.0\FormAndCV.csproj.CoreCompileInputs.cache
+C:\Users\arlyz\Documents\+Proyectos\VS Community\FormAndCV\FormAndCV\FormAndCV\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\arlyz\Documents\+Proyectos\VS Community\FormAndCV\FormAndCV\FormAndCV\obj\Debug\netstandard2.0\FormAndCV.dll
+C:\Users\arlyz\Documents\+Proyectos\VS Community\FormAndCV\FormAndCV\FormAndCV\obj\Debug\netstandard2.0\refint\FormAndCV.dll
+C:\Users\arlyz\Documents\+Proyectos\VS Community\FormAndCV\FormAndCV\FormAndCV\obj\Debug\netstandard2.0\FormAndCV.pdb
