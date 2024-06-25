@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GenerateCV.Page1"
+             BackgroundColor="#9c347d">
+
+    <ContentPage.Resources>
+        <!-- Define estilos aquÃ­ -->
+        <Style x:Key="LabelStyle" TargetType="Label">
+            <Setter Property="FontSize" Value="15" />
+            <Setter Property="TextColor" Value="White" />
+            <Setter Property="FontFamily" Value="Arial" />
+            <Setter Property="BackgroundColor" Value="#e069a5" />
+            <Setter Property="Padding" Value="30" />
+        </Style>
+        <Style x:Key="SectionLabelStyle" TargetType="Label">
+            <Setter Property="FontSize" Value="20" />
+            <Setter Property="TextColor" Value="White" />
+            <Setter Property="FontFamily" Value="Arial" />
+            <Setter Property="BackgroundColor" Value="#b0468e" />
+            <Setter Property="Padding" Value="0" />
+        </Style>
+    </ContentPage.Resources>
+    
+
+    <Grid RowSpacing="0" ColumnSpacing="0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="2*" />
+        </Grid.ColumnDefinitions>
+
+        <Image Source="figura.png" Grid.Row="0" Grid.Column="0" BackgroundColor="#b0468e" HeightRequest="100" WidthRequest="100" Aspect="AspectFill" />
+
+        <Label x:Name="labelNombre" Grid.Row="0" Grid.Column="1" Style="{StaticResource SectionLabelStyle}" />
+
+        <Label x:Name="labelFecha" Grid.Row="1" Grid.Column="0" Style="{StaticResource LabelStyle}" />
+        <Label x:Name="labelTelefono" Grid.Row="2" Grid.Column="0" Style="{StaticResource LabelStyle}" />
+        <Label x:Name="labelEmail" Grid.Row="3" Grid.Column="0" Style="{StaticResource LabelStyle}" />
+
+        <Label x:Name="labelAptitud" Grid.Row="1" Grid.Column="1" Style="{StaticResource LabelStyle}" />
+        <Label x:Name="labelExperiencia" Grid.Row="2" Grid.Column="1" Style="{StaticResource LabelStyle}" />
+        <Label x:Name="labelFormacion" Grid.Row="3" Grid.Column="1" Style="{StaticResource LabelStyle}" />
+
+    </Grid>
+</ContentPage>

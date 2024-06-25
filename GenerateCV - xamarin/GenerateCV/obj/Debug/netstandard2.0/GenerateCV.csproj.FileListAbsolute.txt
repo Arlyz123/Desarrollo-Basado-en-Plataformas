@@ -1,0 +1,16 @@
+C:\Users\arlyz\Documents\+Proyectos\VS Community\GenerateCV\GenerateCV\GenerateCV\bin\Debug\netstandard2.0\GenerateCV.deps.json
+C:\Users\arlyz\Documents\+Proyectos\VS Community\GenerateCV\GenerateCV\GenerateCV\bin\Debug\netstandard2.0\GenerateCV.dll
+C:\Users\arlyz\Documents\+Proyectos\VS Community\GenerateCV\GenerateCV\GenerateCV\bin\Debug\netstandard2.0\ref\GenerateCV.dll
+C:\Users\arlyz\Documents\+Proyectos\VS Community\GenerateCV\GenerateCV\GenerateCV\bin\Debug\netstandard2.0\GenerateCV.pdb
+C:\Users\arlyz\Documents\+Proyectos\VS Community\GenerateCV\GenerateCV\GenerateCV\obj\Debug\netstandard2.0\GenerateCV.csproj.AssemblyReference.cache
+C:\Users\arlyz\Documents\+Proyectos\VS Community\GenerateCV\GenerateCV\GenerateCV\obj\Debug\netstandard2.0\GenerateCV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arlyz\Documents\+Proyectos\VS Community\GenerateCV\GenerateCV\GenerateCV\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\arlyz\Documents\+Proyectos\VS Community\GenerateCV\GenerateCV\GenerateCV\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\arlyz\Documents\+Proyectos\VS Community\GenerateCV\GenerateCV\GenerateCV\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\arlyz\Documents\+Proyectos\VS Community\GenerateCV\GenerateCV\GenerateCV\obj\Debug\netstandard2.0\GenerateCV.AssemblyInfoInputs.cache
+C:\Users\arlyz\Documents\+Proyectos\VS Community\GenerateCV\GenerateCV\GenerateCV\obj\Debug\netstandard2.0\GenerateCV.AssemblyInfo.cs
+C:\Users\arlyz\Documents\+Proyectos\VS Community\GenerateCV\GenerateCV\GenerateCV\obj\Debug\netstandard2.0\GenerateCV.csproj.CoreCompileInputs.cache
+C:\Users\arlyz\Documents\+Proyectos\VS Community\GenerateCV\GenerateCV\GenerateCV\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\arlyz\Documents\+Proyectos\VS Community\GenerateCV\GenerateCV\GenerateCV\obj\Debug\netstandard2.0\GenerateCV.dll
+C:\Users\arlyz\Documents\+Proyectos\VS Community\GenerateCV\GenerateCV\GenerateCV\obj\Debug\netstandard2.0\refint\GenerateCV.dll
+C:\Users\arlyz\Documents\+Proyectos\VS Community\GenerateCV\GenerateCV\GenerateCV\obj\Debug\netstandard2.0\GenerateCV.pdb
